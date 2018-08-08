@@ -38,7 +38,7 @@ qrcode.makeCode("https://github.com/KeeeX"); // make another code.
 ### Using with webpack
 
 ```
-const QRCode = require("@keeex/qrcodejs-kx");
+const QRCode = require("@gfe/qrcode-js");
 // Use QRCode as usual
 ```
 
